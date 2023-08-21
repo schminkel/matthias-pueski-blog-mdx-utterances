@@ -1,2 +1,2 @@
 # matthias-pueski-blog-mdx-utterances
-Utterances commenting for repo matthias-pueski-blog-mdx
+Utterances commenting for privat repo matthias-pueski-blog-mdx
